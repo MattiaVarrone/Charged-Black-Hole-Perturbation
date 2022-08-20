@@ -1,0 +1,51 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 13.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1211,         43]
+NotebookOptionsPosition[       865,         29]
+NotebookOutlinePosition[      1262,         45]
+CellTagsIndexPosition[      1219,         42]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell["\<\
+Define Manifolds, metric, functions (e.g. h_ttS), symbols (e.g. Q, U, \
+Lambda).
+Define 3/4 charts: spherical, horizon distance, edd_fink, edd_fink_scaled\
+\>", "Text",
+ CellChangeTimes->{{3.86999009039924*^9, 
+  3.869990239879449*^9}},ExpressionUUID->"230ad69d-905f-4687-93e1-\
+d2b8d859c61b"]
+},
+WindowSize->{1440., 845.25},
+WindowMargins->{{0, Automatic}, {Automatic, 21.75}},
+FrontEndVersion->"13.1 for Linux x86 (64-bit) (June 16, 2022)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"b252a542-2d2d-4d3f-ab4e-bbd3a42ce332"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 303, 7, 62, "Text",ExpressionUUID->"230ad69d-905f-4687-93e1-d2b8d859c61b"]
+}
+]
+*)
+
